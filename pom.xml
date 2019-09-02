@@ -19,6 +19,7 @@
     <finalName>Hello</finalName>
     <plugins>
         <plugin>
+
             <groupId>org.codehaus.cargo</groupId>
             <artifactId>cargo-maven2-plugin</artifactId>
             <version>1.7.4</version>

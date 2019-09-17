@@ -27,7 +27,14 @@ public class DoPostServlet extends HttpServlet {
             out.println("<h1>");
             out.println("Hello World I am servletNEZZZZZZZZZZ!");
             out.println("</h1>");
+
+
+
+
             out.println(name);
+
+
+
             out.println("</h1>");
             /*Footer begin*/
             out.println("<footer>");

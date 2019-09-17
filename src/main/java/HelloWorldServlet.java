@@ -30,6 +30,10 @@ public class HelloWorldServlet extends HttpServlet {
             out.println ("Hello World I am servletNEZZZZZZZZZZ!");
             out.println ("</h1>");
 
+
+
+
+
             /*Footer begin*/
             out.println ("<footer>");
             out.println ("<p>");
